@@ -1,0 +1,27 @@
+﻿@model ATM_Machine.Models.UserDetails
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MainPage</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div style="width:50%;height:40px;background-color:lightskyblue;text-align:center;margin:auto;">@ViewBag.firstName</div>
+    <div class="text-center" style="margin-top:70px;">
+        <a class="btn btn-success" href="~/Home/Deposit">Deposit</a>
+        <a class="btn btn-success" href="~/Home/Withdrawal">Withdrawal</a>
+        <a class="btn btn-success" href="~/Home/Balance">Balance</a>
+
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>

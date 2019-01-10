@@ -1,0 +1,36 @@
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\ATM Machine.Tests.dll.config
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\ATM Machine.Tests.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\ATM Machine.Tests.pdb
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\ATM Machine.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\ATM Machine.pdb
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\ATM Machine.dll.config
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\obj\Debug\ATM Machine.Tests.csprojAssemblyReference.cache
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\obj\Debug\ATM Machine.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\obj\Debug\ATM Machine.Tests.csproj.CopyComplete
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\obj\Debug\ATM Machine.Tests.dll
+C:\Users\Sanath\Desktop\R&D\ATM Machine\ATM Machine.Tests\obj\Debug\ATM Machine.Tests.pdb

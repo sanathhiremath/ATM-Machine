@@ -1,0 +1,30 @@
+﻿@model ATM_Machine.Models.Transaction
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Balance</title>
+</head>
+<body>
+    <div>
+        <h4>Transaction</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Balance) =  @ViewBag.balance
+            </dt>
+            
+        </dl>
+    </div>
+    <p>
+        
+        @Html.ActionLink("Back ", "MainPage")
+    </p>
+</body>
+</html>
